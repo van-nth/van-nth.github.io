@@ -1,0 +1,74 @@
+{
+	"name": "Van",
+	"heading": "Web / Shopify frontend developer",
+	"description": "I'm Van from Vietnam. As a Frontend Developer and Shopify Developer, I have a passion for creating exceptional user experiences that are both aesthetically pleasing and highly functional. I specialize in creating highly customized Shopify stores that convert. My expertise in frontend development, coupled with my in-depth knowledge of the Shopify platform, enables me to deliver seamless and engaging eCommerce experiences that drive sales and revenue.",
+	"portfolio": [
+		{
+			"heading": "Frontend Development",
+			"projects": [
+				{
+					"description": "Setting up a customized fully functional and visually appealing Shopify store to enable The Queen Pet Shop to establish an effective online presence and expand their reach to a wider customer base.",
+					"images": [
+						"/assets/portfolio/QPS.Portfolio.1.jpg",
+						"/assets/portfolio/QPS.Portfolio.2.png"
+					],
+					"stack": [
+						"/assets/stack/html.svg",
+						"/assets/stack/css.svg",
+						"/assets/stack/javascript.svg",
+						"/assets/stack/shopify.svg"
+					]
+				},
+				{
+					"description": "Shopify store set up and customized coding for Elevate, a brand selling recycled plastic DJ's stands",
+					"images": ["/assets/portfolio/Elevate.Portfolio.1.jpg"],
+					"stack": [
+						"/assets/stack/html.svg",
+						"/assets/stack/css.svg",
+						"/assets/stack/javascript.svg",
+						"/assets/stack/shopify.svg"
+					]
+				},
+				{
+					"description": "Developing Glue agency website, focusing on creating an engaging and user-friendly interface that effectively showcases the agency's services.",
+					"images": [
+						"/assets/portfolio/Glue.Portfolio.1.png",
+						"/assets/portfolio/Glue.Portfolio.2.png"
+					],
+					"stack": [
+						"/assets/stack/html.svg",
+						"/assets/stack/css.svg",
+						"/assets/stack/javascript.svg",
+						"/assets/stack/react.svg"
+					]
+				},
+				{
+					"description": "Developing Glue cost estmate app. Users feed it data and the process runs automatically.",
+					"images": ["/assets/portfolio/Glue.App.Portfolio.1.png"],
+					"stack": [
+						"/assets/stack/html.svg",
+						"/assets/stack/css.svg",
+						"/assets/stack/javascript.svg",
+						"/assets/stack/react.svg"
+					]
+				}
+			]
+		}
+	],
+	"social": [
+		{
+			"icon": "/assets/social/github.svg",
+			"url": "https://github.com/van-nth"
+		},
+		{
+			"icon": "/assets/social/linkedin.svg",
+			"url": "https://www.linkedin.com/in/nguyenkatvn/"
+		}
+	],
+	"testimonials": [
+		{
+			"description": "I had the pleasure of working with Vân over the last several years, where we worked mostly on Shopify and other front-end projects. She is a diligent hard worker who can solve anything she puts her mind too. She is always quick to respond to new requests and works with speed without sacrificing attention to detail. I have no hesitation in recommending her for for future projects.",
+			"name": "Chris, Glue"
+		}
+	]
+}
